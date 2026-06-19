@@ -1,37 +1,41 @@
+<!-- Руководство: https://docs.spacestation14.io/ru/getting-started/pr-guideline -->
+<!-- Сообщения со стрелочками - это комментарии, их не будет видно -->
 
-## About the PR
-<!-- What did you change? -->
-<!-- If this is a code change, summarize at high level how your new code works. This makes it easier to review. -->
+## О пулл-реквесте
+<!-- Что вы изменили? -->
+<!-- Если это изменение кода, кратко опишите как работает ваш новый код. Это упростит проверку. -->
 
-## Why / Balance
-<!-- Discuss how this would affect game balance or explain why it was changed. Link any relevant discussions or issues. -->
+## Обоснование / Баланс
+<!-- Обсудите как это повлияет на игровой баланс или объясните причину изменения. Приведите ссылки на обсуждения или issues. -->
 
-## Media
-<!-- Attach media if the PR makes ingame changes (clothing, items, features, etc). 
-Small fixes/refactors are exempt. Media may be used in SS14 progress reports with credit. -->
+## Технические детали
+<!-- Краткое описание изменений в коде для удобства проверки. -->
 
-## Requirements
-<!-- Confirm the following by placing an X in the brackets [X]: -->
-- [ ] I have read relevant guidelines/documentation to this PR found on [our devwiki](https://monolith-station.github.io/mono-docs/).
-- [ ] I have added media to this PR or it does not require an ingame showcase.
-- [ ] I can confirm this PR contains either no AI-generated content, or AI-generated content that meets our guidelines.
-<!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
-<!-- When using AI, make sure you are already proficient in creating whatever content you are attempting to generate and that you already have experience contributing to SS14. This means using AI to enhance your preexisting workflow, not vibecoding. -->
+## Как протестировать
+<!-- Опишите процедуру тестирования этой функции с ожидаемым результатом/поведением. -->
 
-## How to test
-<!-- Describe the way it can be tested -->
+## Медиа
+<!-- Приложите скриншоты/видео, если PR вносит изменения в игру (одежда, предметы, фичи и т.д.). 
+Мелкие правки/рефакторинг не требуют. Медиа могут быть использованы в отчетах о разработке SS14 с указанием авторства. -->
 
-## Breaking changes
-<!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and provide instructions for fixing them. -->
+## Требования
+<!-- Подтвердите следующее, поставив X в квадратных скобках [X]: -->
+- [] Я прочитал [CONTRIBUTING.md](https://github.com/HacksLua/sector-frontier/blob/master/CONTRIBUTING.md) и соблюдаю [Руководство по пулл-реквестам и изменению логов](https://docs.spacestation14.com/ru/general-development/codebase-info/pull-request-guidelines.html).
+- [] Я приложил медиа-материалы к этому PR или они не требуются.
+- [] Я ознакомился с [Руководством по добавлению кораблей](https://frontierstation.wiki.gg/wiki/Ship_Submission_Guidelines), если это уместно.
+- [] Я подтверждаю, что ИИ-инструменты не использовались для создания материалов в этом PR.
+<!-- Имейте в виду, что несоблюдение этих требований может привести к закрытию PR по усмотрению мейнтейнера -->
 
-**Changelog**
-<!-- Add a Changelog entry to make players aware of new features or changes that could affect gameplay.
-Make sure to read the guidelines and take this Changelog template out of the comment block in order for it to show up.
-Changelog must have a :cl: symbol, so the bot recognizes the changes and adds them to the game's changelog. -->
-<!--
+## Критические изменения
+<!-- Перечислите любые критические изменения, включая изменения пространств имен, публичных классов/методов/полей, переименование прототипов; и предоставьте инструкции по их исправлению. -->
+
+**Журнал изменений**
+<!-- Добавьте запись в журнал изменений, чтобы игроки знали о новых функциях или изменениях, которые могут повлиять на геймплей.
+Убедитесь, что прочитали руководство и удалите этот шаблон из комментария, чтобы он отобразился.
+Запись должна содержать символ :cl:, чтобы бот распознал изменения и добавил их в игровой журнал изменений. -->
+
 :cl:
-- add: Added fun!
-- remove: Removed fun!
-- tweak: Changed fun!
-- fix: Fixed fun!
--->
+- add: Добавлено веселье!
+- remove: Удалено веселье!
+- tweak: Изменено веселье!
+- fix: Исправлено веселье!
