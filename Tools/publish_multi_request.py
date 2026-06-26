@@ -15,7 +15,7 @@ RELEASE_DIR = "release"
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://cdn.luaworld.ru/"
+ROBUST_CDN_URL = "https://cdn.deadspace14.net/"
 FORK_ID = "dsmonolith"
 
 def main():
