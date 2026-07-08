@@ -14,7 +14,7 @@
   minimumDistance: 10000
   maximumDistance: 15000
   spawnGroup: Optional
-  gridPath: /Maps/_Mono/POI/Dungeons/zvezda.yml
+  gridPath: /Maps/_LuaM/POI/Dungeons/ZvezdaLuaM.yml # LuaM: /Maps/_Mono/POI/Dungeons/zvezda.yml > /Maps/_LuaM/POI/Dungeons/ZvezdaLuaM.yml
   addComponents:
   - type: IFF
     color: "#17bf65"
@@ -23,7 +23,7 @@
 - type: gameMap
   id: Zvezda
   mapName: 'Zvezda Orbital Habitation'
-  mapPath: /Maps/_Mono/POI/Dungeons/zvezda.yml
+  mapPath: /Maps/_LuaM/POI/Dungeons/ZvezdaLuaM.yml # LuaM: /Maps/_Mono/POI/Dungeons/zvezda.yml > /Maps/_LuaM/POI/Dungeons/ZvezdaLuaM.yml
   minPlayers: 0
   stations:
     Zvezda:

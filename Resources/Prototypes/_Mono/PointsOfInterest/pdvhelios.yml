@@ -9,7 +9,7 @@
   id: HeliosFortress
   parent: [BasePOI, BaseRepairablePOI]
   name: 'Крепость «Гелиос»' # LuaM: 'PDV Helios Fortress' > 'Крепость «Гелиос»'
-  minimumDistance: 7500
+  minimumDistance: 8500 # LuaM 7500 > 8500
   maximumDistance: 9500
   spawnGamePreset: [ NFAdventure, NFPirate, MonoStandard, MonoRogueTSF, MonoRogueUSSP, MonoADS, MonoChimera, MonoMixed, MonoAllAtOnce ]
   spawnGroup: Required

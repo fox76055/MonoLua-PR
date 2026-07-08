@@ -9,7 +9,7 @@
   category: Medium
   group: Ussp
   access: Mercenary
-  shuttlePath: /Maps/_Mono/Shuttles/USSP/sulak.yml
+  shuttlePath: /Maps/_LuaM/Shuttles/USSP/SulakLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/sulak.yml > /Maps/_LuaM/Shuttles/USSP/SulakLuaM.yml
   guidebookPage: Null
   class:
   - Pursuit
@@ -20,7 +20,7 @@
 - type: gameMap
   id: Sulak
   mapName: 'Sulak'
-  mapPath: /Maps/_Mono/Shuttles/USSP/sulak.yml
+  mapPath: /Maps/_LuaM/Shuttles/USSP/SulakLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/sulak.yml > /Maps/_LuaM/Shuttles/USSP/SulakLuaM.yml
   minPlayers: 0
   stations:
     Sulak:

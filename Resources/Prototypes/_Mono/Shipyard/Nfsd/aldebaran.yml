@@ -10,7 +10,7 @@
   category: Medium
   group: Security
   access: Security
-  shuttlePath: /Maps/_Mono/Shuttles/Nfsd/aldebaran.yml
+  shuttlePath: /Maps/_LuaM/Shuttles/TSFMC/AldebaranLuaM.yml # LuaM: /Maps/_Mono/Shuttles/Nfsd/aldebaran.yml > /Maps/_LuaM/Shuttles/TSFMC/AldebaranLuaM.yml
   guidebookPage: Null
   class:
   - Patrol
@@ -21,7 +21,7 @@
 - type: gameMap
   id: Aldebaran
   mapName: 'Aldebaran'
-  mapPath: /Maps/_Mono/Shuttles/Nfsd/aldebaran.yml
+  mapPath: /Maps/_LuaM/Shuttles/TSFMC/AldebaranLuaM.yml # LuaM: /Maps/_Mono/Shuttles/Nfsd/aldebaran.yml > /Maps/_LuaM/Shuttles/TSFMC/AldebaranLuaM.yml
   minPlayers: 0
   stations:
     Aldebaran:

@@ -9,7 +9,7 @@
   category: Medium
   group: Ussp
   access: Mercenary
-  shuttlePath: /Maps/_Mono/Shuttles/USSP/drakon.yml
+  shuttlePath: /Maps/_LuaM/Shuttles/USSP/DrakonLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/drakon.yml > /Maps/_LuaM/Shuttles/USSP/DrakonLuaM.yml
   guidebookPage: Null
   class:
   - Pursuit
@@ -20,7 +20,7 @@
 - type: gameMap
   id: Drakon
   mapName: 'Drakon'
-  mapPath: /Maps/_Mono/Shuttles/USSP/drakon.yml
+  mapPath: /Maps/_LuaM/Shuttles/USSP/DrakonLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/drakon.yml > /Maps/_LuaM/Shuttles/USSP/DrakonLuaM.yml
   minPlayers: 0
   stations:
     Drakon:

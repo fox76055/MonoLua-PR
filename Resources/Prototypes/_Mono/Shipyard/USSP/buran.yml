@@ -9,7 +9,7 @@
   category: Large
   group: Ussp
   access: Mercenary
-  shuttlePath: /Maps/_Mono/Shuttles/USSP/buran.yml
+  shuttlePath: /Maps/_LuaM/Shuttles/USSP/BuranLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/buran.yml > /Maps/_LuaM/Shuttles/USSP/BuranLuaM.yml
   guidebookPage: ShipyardNFROperation
   class:
   - Frigate
@@ -19,7 +19,7 @@
 - type: gameMap
   id: Buran
   mapName: 'Buran'
-  mapPath: /Maps/_Mono/Shuttles/USSP/buran.yml
+  mapPath: /Maps/_LuaM/Shuttles/USSP/BuranLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/buran.yml > /Maps/_LuaM/Shuttles/USSP/BuranLuaM.yml
   minPlayers: 0
   stations:
     Buran:

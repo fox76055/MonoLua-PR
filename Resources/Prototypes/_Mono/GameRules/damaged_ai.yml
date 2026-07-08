@@ -30,7 +30,7 @@
   - type: GameRule
     minPlayers: 32
   - type: LoadMapRule
-    gridPath: /Maps/_Mono/ShuttleEvent/zenith.yml
+    gridPath: /Maps/_LuaM/ShuttleEvent/ZenithLuaM.yml # LuaM: /Maps/_Mono/ShuttleEvent/zenith.yml > /Maps/_LuaM/ShuttleEvent/ZenithLuaM.yml
 
 - type: entity
   parent: BaseRandomShuttleRule
@@ -45,7 +45,7 @@
   - type: GameRule
     minPlayers: 32
   - type: LoadMapRule
-    gridPath: /Maps/_Mono/ShuttleEvent/zenith_e.yml
+    gridPath: /Maps/_LuaM/ShuttleEvent/Zenith_ELuaM.yml # LuaM: /Maps/_Mono/ShuttleEvent/zenith_e.yml > /Maps/_LuaM/ShuttleEvent/Zenith_ELuaM.yml
 
 - type: entity
   parent: BaseRandomShuttleRule
@@ -60,7 +60,7 @@
   - type: GameRule
     minPlayers: 32
   - type: LoadMapRule
-    gridPath: /Maps/_Mono/ShuttleEvent/nebula.yml
+    gridPath: /Maps/_LuaM/ShuttleEvent/NebulaLuaM.yml # LuaM: /Maps/_Mono/ShuttleEvent/nebula.yml > /Maps/_LuaM/ShuttleEvent/NebulaLuaM.yml
 
 - type: entity
   parent: BaseRandomShuttleRule
@@ -75,7 +75,7 @@
   - type: GameRule
     minPlayers: 15
   - type: LoadMapRule
-    gridPath: /Maps/_Mono/ShuttleEvent/wyrm.yml
+    gridPath: /Maps/_LuaM/ShuttleEvent/WyrmLuaM.yml # LuaM: /Maps/_Mono/ShuttleEvent/wyrm.yml > /Maps/_LuaM/ShuttleEvent/WyrmLuaM.yml
 
 - type: entity
   parent: BaseRandomShuttleRule
@@ -84,7 +84,7 @@
   - type: StationEvent
     startAnnouncement: station-event-ai-shuttle-detected
     startAudio:
-      path: /Audio/Misc/notice1.ogg
+      path: /Audio/Misc/delta_alt.ogg # LuaM: /Audio/Misc/notice1.ogg > /Audio/Misc/delta_alt.ogg
     weight: 2 # rare but not too rare since it's in the T2 spawner
     maxOccurrences: 2
   - type: GameRule

@@ -10,7 +10,7 @@
   category: Medium
   group: Security
   access: Security
-  shuttlePath: /Maps/_Mono/Shuttles/Nfsd/mercury.yml
+  shuttlePath: /Maps/_LuaM/Shuttles/TSFMC/MercuryLuaM.yml # LuaM: /Maps/_Mono/Shuttles/Nfsd/mercury.yml > /Maps/_LuaM/Shuttles/TSFMC/MercuryLuaM.yml
   guidebookPage: Null
   class:
   - Patrol
@@ -21,7 +21,7 @@
 - type: gameMap
   id: Mercury
   mapName: 'Mercury'
-  mapPath: /Maps/_Mono/Shuttles/Nfsd/mercury.yml
+  mapPath: /Maps/_LuaM/Shuttles/TSFMC/MercuryLuaM.yml # LuaM: /Maps/_Mono/Shuttles/Nfsd/mercury.yml > /Maps/_LuaM/Shuttles/TSFMC/MercuryLuaM.yml
   minPlayers: 0
   stations:
     Mercury:

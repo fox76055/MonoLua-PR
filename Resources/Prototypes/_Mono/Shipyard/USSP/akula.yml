@@ -9,7 +9,7 @@
   category: Medium
   group: Ussp
   access: Mercenary
-  shuttlePath: /Maps/_Mono/Shuttles/USSP/akula.yml
+  shuttlePath: /Maps/_LuaM/Shuttles/USSP/AkulaLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/akula.yml > /Maps/_LuaM/Shuttles/USSP/AkulaLuaM.yml
   guidebookPage: Null
   class:
   - Patrol
@@ -19,7 +19,7 @@
 - type: gameMap
   id: Akula
   mapName: 'Akula'
-  mapPath: /Maps/_Mono/Shuttles/USSP/akula.yml
+  mapPath: /Maps/_LuaM/Shuttles/USSP/AkulaLuaM.yml # LuaM: /Maps/_Mono/Shuttles/USSP/akula.yml > /Maps/_LuaM/Shuttles/USSP/AkulaLuaM.yml
   minPlayers: 0
   stations:
     Akula:
