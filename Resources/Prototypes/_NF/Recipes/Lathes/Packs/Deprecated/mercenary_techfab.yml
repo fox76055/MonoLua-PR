@@ -109,6 +109,8 @@
   - PowerCellHigh
   # - PowerCellHyperNF
   - PowerCellCombat # Mono edit
+  - NaniteApplicatorSyndicate # LuaM
+  - ExperimentalPowerCellCombat # LuaM
   - PowerCellMicroreactor
 # Mercenary techfab
 ## Armor

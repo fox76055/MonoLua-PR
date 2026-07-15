@@ -26,15 +26,28 @@ namespace Content.Server._EinsteinEngines.Silicon.WeldingHealing
         /// </summary>
         [DataField]
         public int FuelCost = 5;
+// LuaM-start:          
+        /// <summary>
+        ///     Whether repairing is interrupted when the user moves
+        /// </summary>
+        [DataField] 
+        public bool BreakOnMove = true;
+
+         /// <summary>
+        ///     Whether repairing is interrupted when the user takes damage
+        /// </summary>
+        [DataField] 
+        public bool BreakOnDamage = true;
+// LuaM-end.
 
         [DataField]
-        public int DoAfterDelay = 3;
+        public int DoAfterDelay = 3; 
 
         /// <summary>
         ///     A multiplier that will be applied to the above if an entity is repairing themselves.
         /// </summary>
         [DataField]
-        public float SelfHealPenalty = 3f;
+        public float SelfHealPenalty = 1.5f; // LuaM 3f > 1.5f
 
         /// <summary>
         ///     Whether or not an entity is allowed to repair itself.
