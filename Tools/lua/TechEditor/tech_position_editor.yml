@@ -34,6 +34,11 @@ paths:
   - Resources/Prototypes/_NF/Research/industrial.yml
   - Resources/Prototypes/_Shitmed/Research/civilianservices.yml
   - Resources/Prototypes/_White/Research/experimental.yml
+  - Resources/Prototypes/Research/arsenal.yml
+  - Resources/Prototypes/Research/civilianservices.yml
+  - Resources/Prototypes/Research/disciplines.yml
+  - Resources/Prototypes/Research/experimental.yml
+  - Resources/Prototypes/Research/industrial.yml
 
 disciplinePaths:
   - Resources/Prototypes/_Mono/disciplines.yml
