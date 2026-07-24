@@ -27,7 +27,7 @@ paths:
   - Resources/Prototypes/_FarHorizons/Research/industrial.yml
   - Resources/Prototypes/_Goobstation/Research/arsenal.yml
   - Resources/Prototypes/_Goobstation/Research/experimental.yml
-  - Resources/Prototypes/_LuaM/Researchh/civilianservices.yml
+  - Resources/Prototypes/_LuaM/Research/civilianservices.yml
   - Resources/Prototypes/_NF/Research/arsenal.yml
   - Resources/Prototypes/_NF/Research/civilianservices.yml
   - Resources/Prototypes/_NF/Research/experimental.yml
