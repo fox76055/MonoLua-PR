@@ -35,6 +35,10 @@ paths:
   - Resources/Prototypes/_Shitmed/Research/civilianservices.yml
   - Resources/Prototypes/_White/Research/experimental.yml
 
+disciplinePaths:
+  - Resources/Prototypes/_Mono/disciplines.yml
+  - Resources/Prototypes/Research/disciplines.yml
+
 # Paths to entity prototype files or directories for resolving entityIcon.
 entityPaths:
   - Resources/Prototypes
