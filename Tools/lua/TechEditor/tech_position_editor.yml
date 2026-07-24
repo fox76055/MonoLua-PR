@@ -1,13 +1,38 @@
 # Paths to technology prototype files. Use absolute paths or repo-relative paths.
 paths:
-  - Resources/Prototypes/_Lua/Research/techtree.yml
-  - Resources/Prototypes/_Lua/Research/shiparmory.yml
-  - Resources/Prototypes/_Goobstation/Research/arsenal.yml
-  - Resources/Prototypes/_Goobstation/Research/civilianservices.yml
-  - Resources/Prototypes/_Lua/Research/arsenal.yml
-  - Resources/Prototypes/_Lua/Research/industrial.yml
-  - Resources/Prototypes/_Lua/Research/service.yml
+  - Resources/Prototypes/_Mono/Research/shuttlecomps.yml
+  - Resources/Prototypes/_Mono/Research/mech_research.yml
+  - Resources/Prototypes/_Mono/Research/experimental.yml
+  - Resources/Prototypes/_Mono/Research/arsenal.yml
+  - Resources/Prototypes/_Mono/Research/USSP/ussp_misc.yml
+  - Resources/Prototypes/_Mono/Research/USSP/ussp_ships.yml
+  - Resources/Prototypes/_Mono/Research/USSP/ussp_suits.yml
+  - Resources/Prototypes/_Mono/Research/USSP/ussp_weapons.yml
+  - Resources/Prototypes/_Mono/Research/Universal/armor_plates.yml
+  - Resources/Prototypes/_Mono/Research/Universal/economy.yml
+  - Resources/Prototypes/_Mono/Research/Universal/explosives.yml
+  - Resources/Prototypes/_Mono/Research/Universal/prerequisites.yml
   - Resources/Prototypes/_Mono/Research/Universal/shipgun_ammo.yml
+  - Resources/Prototypes/_Mono/Research/Universal/smallarms.yml
+  - Resources/Prototypes/_Mono/Research/TSF/faction_tacsuits.yml
+  - Resources/Prototypes/_Mono/Research/TSF/tsf_misc.yml
+  - Resources/Prototypes/_Mono/Research/TSF/tsf_weapons.yml
+  - Resources/Prototypes/_Mono/Research/Rogue/faction_tacsuits.yml
+  - Resources/Prototypes/_Mono/Research/Rogue/rogue_misc.yml
+  - Resources/Prototypes/_Mono/Research/Rogue/rogue_weapons.yml
+  - Resources/Prototypes/_Mono/Research/Organizations/ullman.yml
+  - Resources/Prototypes/_Mono/Research/Organizations/viper_group.yml
+  - Resources/Prototypes/_DV/Research/civilianservices.yml
+  - Resources/Prototypes/_EinsteinEngines/Research/civilianservices.yml
+  - Resources/Prototypes/_FarHorizons/Research/industrial.yml
+  - Resources/Prototypes/_Goobstation/Research/arsenal.yml
+  - Resources/Prototypes/_Goobstation/Research/experimental.yml
+  - Resources/Prototypes/_LuaM/Researchh/civilianservices.yml
+  - Resources/Prototypes/_NF/Research/arsenal.yml
+  - Resources/Prototypes/_NF/Research/civilianservices.yml
+  - Resources/Prototypes/_NF/Research/experimental.yml
+  - Resources/Prototypes/_NF/Research/industrial.yml
+  - Resources/Prototypes/_Shitmed/Research/civilianservices.yml
   - Resources/Prototypes/_White/Research/experimental.yml
 
 # Paths to entity prototype files or directories for resolving entityIcon.
